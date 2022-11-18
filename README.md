@@ -5,8 +5,11 @@ The project is about Crime Data Analytics.
 
 Team No: 6
 Divya K          : PES1UG20CS135
+
 Dhanalakshmi K M : PES1UG20CS124
+
 Syed A Rayan     : PES1UG20CS453
+
 
 Link to dataset: [MCI_2021.csv](https://drive.google.com/file/d/1p4E1nIN1F37Cs1epw7XH6q3zHZjvB8oN/view?usp=sharing)
 
